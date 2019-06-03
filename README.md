@@ -202,7 +202,9 @@
 
 [Text & Paragraphs with Markdown](https://youtu.be/1VHIIO4x2tE)  
 [Headers with Markdown](https://youtu.be/M2-ppBtt7Oc)  
-[Basic Text-styling with Markdown](https://youtu.be/Bldoar___Vg)
+[Basic Text-styling with Markdown](https://youtu.be/Bldoar___Vg)  
+[Unordered & Ordered Lists](https://youtu.be/iBA-j6XaHNc)  
+[Adding Images](https://youtu.be/_1vmtqnKQew)  
 
 ***
 > This is *NOT* html. 
