@@ -190,6 +190,13 @@
 > Try **adding** some new lines of text to the *Markdown* file.
 
 ***
+
+#### Working with and Learning MarkDown
+> The following videos will help show you how to work with MarkDown to create your WebPages and WebSites. As you watch, pause and try out the different things I'm showing you.
+
+[Working with a MarkDown Editor](https://youtu.be/peQprAGUcrs)
+
+***
 > This is *NOT* html. 
 
 > *GitHub* will take the markdown and transform it into the web languages
