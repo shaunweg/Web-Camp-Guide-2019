@@ -209,7 +209,7 @@
 > allowing your browser to read it.
 
 ***
-> When you are done, **scroll down** to the bottom, you should see a box that says:
+> Don't forget GitHub does **NOT** auto-save. Everytime you make an edit you want to save, you must **scroll down** to the bottom, and click the box that says:
 > - *Commit changes*
 
 > with a few boxes below it, put in a brief comment about the changes you made.
