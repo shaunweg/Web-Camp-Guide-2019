@@ -205,6 +205,7 @@
 [Basic Text-styling with Markdown](https://youtu.be/Bldoar___Vg)  
 [Unordered & Ordered Lists](https://youtu.be/iBA-j6XaHNc)  
 [Adding Images](https://youtu.be/_1vmtqnKQew)  
+[Adding Links](https://youtu.be/EgBNAXgkDHw)  
 
 ***
 > This is *NOT* html. 
