@@ -7,9 +7,7 @@
 
 > We are going to start the camp with creating a basic webpage on GitHub.
 
-> There are many ways to build a webpage. This is one way using one provider. We will start with Markdown, a Markup language that GitHub pages will convert to HTML for us.
-
-[What is Markdown and Other Languages](https://youtu.be/Fz9QLdZraiM)
+> There are many ways to build a webpage. This is one way using one provider. We will start with Markdown, a Markup language that GitHub pages will convert to HTML for us. **[What is Markdown and Other Languages](https://youtu.be/Fz9QLdZraiM)**
 
 > As we get further into the course, we'll look at web languages including:
 > - HTML
