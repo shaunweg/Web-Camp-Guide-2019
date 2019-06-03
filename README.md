@@ -194,8 +194,12 @@
 #### Working with and Learning MarkDown
 > The following videos will help show you how to work with MarkDown to create your WebPages and WebSites. As you watch, pause and try out the different things I'm showing you.
 
-[Working with a MarkDown Editor](https://youtu.be/peQprAGUcrs)
+[Working with a MarkDown Editor](https://youtu.be/peQprAGUcrs)  
 [How to Use this Course](https://youtu.be/rY81zSOhn0g)
+
+[Text & Paragraphs with Markdown](https://youtu.be/1VHIIO4x2tE)  
+[Headers with Markdown](https://youtu.be/M2-ppBtt7Oc)  
+[Basic Text-styling with Markdown](https://youtu.be/Bldoar___Vg)
 
 ***
 > This is *NOT* html. 
