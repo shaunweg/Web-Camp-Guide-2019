@@ -5,8 +5,8 @@
 
 ## Monday 
 
-**Compact Version**
-[Go to the version with Pictures](https://shaunweg.github.io/guide-for-web-camp-redesign/pages/monday-getting-started.html)
+**This is the Compact Version**  
+[Go to the version with Pictures >>](https://shaunweg.github.io/guide-for-web-camp-redesign/pages/monday-getting-started.html)
 
 > We are going to start the camp with creating a basic webpage on GitHub.
 
