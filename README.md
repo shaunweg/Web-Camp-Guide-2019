@@ -267,6 +267,8 @@
 
 ## Wednesday
 
+[Go to Tuesday's Activities](https://shaunweg.github.io/guide-for-web-camp-redesign/pages/tuesday.html)
+
 ***
 
 ## Thursday 
